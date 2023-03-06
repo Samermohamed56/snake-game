@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\10\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(52,17): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\10\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\10\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

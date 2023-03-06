@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\10\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,17): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\10\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(100,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  12 of 183 functions ( 6.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\10\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
